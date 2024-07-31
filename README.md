@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dampipal" alt="dampipal" /></a> </p>
 
-- 🔭 I’m currently working on **Navgoda**
+- 🔭 I’m currently working on **Allmovie.store**
 
-- 🌱 I’m currently learning **Full strack mern development**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 
